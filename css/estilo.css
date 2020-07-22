@@ -1,1 +1,52 @@
 @import url('https://fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800');
+body {
+    background-color: #9b7d7d;
+    font-family: Tahoma;
+    color: #ffffff;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
+
+div {
+    width: 100%;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    border: 2px solid #28384E;
+}
+
+#facebook {
+    background: #ffffff;
+    color: #000;
+}
+
+#instagram {
+    background: #ffffff;
+    color: #000;
+}
+
+#whatsapp {
+    background: #ffffff;
+    color: #000;
+}
+
+h1 {
+    background: #2110b5;
+    width: 100%;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    border: 2px solid #28384E;
+}
+
+sub {
+    background: #0e7f98;
+    width: 100%;
+    text-align: center;
+    border-radius: 20px;
+    padding: 10px;
+    border: 2px solid #28384E;
+}
